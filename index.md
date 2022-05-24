@@ -11,9 +11,28 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+
+# 开始学习博客
+-date : 2022-5-24 
+## 学习
+-学习
+-linux基础
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 - Bulleted
 - List
